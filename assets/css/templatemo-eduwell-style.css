@@ -1755,7 +1755,7 @@ body {
   }
   .header-area {
     background: rgb(219,138,222) !important;
-    background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%) !important;
+    background: linear-gradient(-145deg, #89898C 0%, #8B8EC6 100%) !important;
   }
   .services .owl-nav .owl-next{
     right: -70px;
